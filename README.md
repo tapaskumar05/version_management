@@ -1,2 +1,2 @@
 # version_management
-version management
+Run npm run dev for localhost
